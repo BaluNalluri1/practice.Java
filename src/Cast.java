@@ -7,5 +7,9 @@ public class Cast {
         int c = (a/b);
 
         System.out.println(c);
+
+        System.out.println("Hello World");
+
+
     }
 }
