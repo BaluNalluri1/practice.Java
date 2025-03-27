@@ -9,6 +9,8 @@ public class Cast {
         System.out.println(c);
 
         System.out.println("Hello World");
+        System.out.println("Hello Hello");
+
 
 
     }
