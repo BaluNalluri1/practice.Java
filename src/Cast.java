@@ -10,6 +10,8 @@ public class Cast {
 
         System.out.println("Hello World");
         System.out.println("Hello Hello");
+        System.out.println("Hello again");
+
 
 
 
